@@ -1,6 +1,6 @@
 [project]
 name = "llm-deepseek"
-version = "0.1.4"
+version = "0.1.6"
 description = "Access deepseek.com models via API"
 readme = "README.md"
 authors = [{name = "abrasumente"}]
